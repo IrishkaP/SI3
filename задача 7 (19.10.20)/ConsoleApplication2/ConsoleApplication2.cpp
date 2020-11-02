@@ -27,7 +27,7 @@ int main()
 		}
 	}
 	catch (Bad_area) {
-		cout << "Ошибочка :(";
+		cout << "Ошибочка (;_;)";
 	}
 }
 
