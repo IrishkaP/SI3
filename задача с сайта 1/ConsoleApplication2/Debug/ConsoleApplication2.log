@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(88,36): warning C4101:  result_size: неиспользованная локальная переменная
+C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(88,24): warning C4101:  result_top: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\ConsoleApplication2\Debug\ConsoleApplication2.exe
