@@ -1,0 +1,12 @@
+﻿  sorti.cpp
+C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\sorti\sorti\sorti.cpp(16,33): warning C4244: =: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\sorti\sorti\sorti.cpp(20,37): warning C4244: =: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+  sorti.vcxproj -> C:\Users\студент\Downloads\Pechenkina\Новая папка\SI3\sorti\Debug\sorti.exe
